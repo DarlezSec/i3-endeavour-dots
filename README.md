@@ -1,8 +1,6 @@
-# Endeavour i3
+# Endeavour i3wm
 
-## With love to you
-
-*I love Ubuntu, I use KISS Linux and Ubuntu as my distros. I wanted to show we can rice in Ubuntu. I installed Ubuntu via debootstrap and It's great. It doesn't matter the Distro, that really matters is what you do*
+*I have been using EndeavourOS for a few months and I am fascinated with the performance it has, without a doubt one of my favorite distributions like Kiss Linux here I leave my configuration that I have with the i3wm window manager*
 
 ### Details:
 
